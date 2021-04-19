@@ -1,0 +1,12 @@
+#text-output{
+    margin: 0 auto;
+   
+
+}
+
+#test{
+    z-index: 1;
+    width: 1000px;
+    height: 600px;
+    background: #000;
+}
